@@ -60,4 +60,4 @@ SoulCare/
 
 This project shows how Technology + Empathy can create a safe digital space for mental health support and make wellness accessible for everyone.
 
-Made with ❤️ by Anuj Trivedi
+                                                         Made with ❤️ by Anuj Trivedi
